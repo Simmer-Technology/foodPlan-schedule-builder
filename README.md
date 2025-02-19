@@ -1,12 +1,18 @@
-Food plan builder
-Gets:
-Date range
-    -Daily meal slots
-User data
-    -home composition
-    -User restrictions
-    -User Pantry
+# Food plan builder
+
+## * Gets:
+
+* Date range
+    - daily meal slots
+
+* User data
+    - home composition
+    - restrictions
+    - pantry
+
+## * Process
 
 evaluates possible recipes
 
-Returns meal plan
+## * Returns
+    - meal plan
